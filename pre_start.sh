@@ -1,5 +1,13 @@
 #!/bin/bash
 
+if [ -d "/workspace/ComfyUI" ]; then
+    echo "Starting ComfyUI..."
+    cd /workspace/ComfyUI
+    source /workspace/sd-venv/bin/activate
+    nohup python main.py --listen 0.0.0.0 --port 3020 &> ../output.log &    
+    exit 0
+fi
+
 cd /workspace
 
 git clone https://github.com/comfyanonymous/ComfyUI.git
@@ -61,25 +69,15 @@ ln -s /workspace/downloads/upscale /workspace/ComfyUI/models/upscale_models
 
 cd /workspace
 
-cat <<EOF > run.sh
-#!/bin/bash
-cd /workspace/ComfyUI
-source /workspace/sd-venv/bin/activate
-nohup python main.py --listen 0.0.0.0 --port 3020 &> ../output.log &
-EOF
-
-# Make the generated run.sh script executable
-chmod +x run.sh
-
-# Replace the content
-sed -i 's@/pre_start.sh@/workspace/run.sh@g' /start.sh
-
 # run ComfyUI
 cd /workspace/ComfyUI
+echo "Starting ComfyUI..."
+source /workspace/sd-venv/bin/activate
 nohup python main.py --listen 0.0.0.0 --port 3020 &> ../output.log &
 
 cd /workspace
 wget https://raw.githubusercontent.com/mav-rik/runpod-comfyui-scripts/master/downloads.sh
 sed -i "s/\r$//" /downloads.sh
 chmod +x /downloads.sh
+echo "Downloading assets..."
 nohup /downloads.sh &> ./downloads.log &
