@@ -1,0 +1,1 @@
+bash -c $'cd /; wget .../pre_start.sh; chmod +x /pre_start.sh; /start.sh;'
