@@ -29,14 +29,20 @@ if [ "$ROOP" == "1" ]; then
 ### roop
 git clone https://github.com/ssitu/ComfyUI_roop
 cd ComfyUI_roop
-### needed for Roop
-apt-get install build-essential -y
-apt-get install python3-dev -y
+### needed for Roop (works on runpod well)
+# apt-get install build-essential -y
+# apt-get install python3-dev -y
 ###
 python install.py
 pip install insightface
 cd ..
 fi
+
+### ComfyUI-WD14-Tagger
+git clone https://github.com/pythongosssss/ComfyUI-WD14-Tagger
+cd ComfyUI-WD14-Tagger
+pip install -r requirements.txt
+cd ..
 
 ### controlnet
 git clone https://github.com/Fannovel16/comfyui_controlnet_aux/
