@@ -79,7 +79,7 @@ cd /workspace/ComfyUI
 nohup python main.py --listen 0.0.0.0 --port 3020 &> ../output.log &
 
 cd /workspace
-wget .../downloads.sh
+wget https://raw.githubusercontent.com/mav-rik/runpod-comfyui-scripts/master/downloads.sh
 sed -i "s/\r$//" /downloads.sh
 chmod +x /downloads.sh
 nohup /downloads.sh &> ./downloads.log &

@@ -1,1 +1,1 @@
-bash -c $'cd /; wget .../pre_start.sh; chmod +x /pre_start.sh; /start.sh;'
+bash -c $'cd /; wget https://raw.githubusercontent.com/mav-rik/runpod-comfyui-scripts/master/pre_start.sh; chmod +x /pre_start.sh; /start.sh;'
