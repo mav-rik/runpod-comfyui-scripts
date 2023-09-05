@@ -6,6 +6,7 @@ echo "Downloading Models..."
 cd /workspace/downloads/models
 ### https://civitai.com/models/129666/realities-edge-xl?modelVersionId=142162
 wget --no-verbose -O RealitiesEdgeXL_.safetensors https://civitai.com/api/download/models/142162
+wget --no-verbose https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0/resolve/main/sd_xl_refiner_1.0.safetensors
 
 ## vae
 echo "Downloading VAE..."
