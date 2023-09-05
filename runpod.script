@@ -1,1 +1,2 @@
+# sd15-photo-restore
 bash -c $'cd /; wget https://raw.githubusercontent.com/mav-rik/runpod-comfyui-scripts/master/pre_start.sh; chmod +x /pre_start.sh; /start.sh;'

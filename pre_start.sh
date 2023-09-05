@@ -71,11 +71,13 @@ cd /workspace
 
 # run ComfyUI
 cd /workspace/ComfyUI
+wget -O ./web/scripts/defaultGraph.js https://raw.githubusercontent.com/mav-rik/runpod-comfyui-scripts/master/$DOWNLOADS/workflow.js
+
 echo "Starting ComfyUI..."
 source /workspace/sd-venv/bin/activate
 nohup python main.py --listen 0.0.0.0 --port 3020 &> ../output.log &
 
 cd /workspace
-wget https://raw.githubusercontent.com/mav-rik/runpod-comfyui-scripts/master/downloads.sh
+wget https://raw.githubusercontent.com/mav-rik/runpod-comfyui-scripts/master/$DOWNLOADS/downloads.sh
 chmod +x ./downloads.sh
 ./downloads.sh
