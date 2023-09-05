@@ -30,8 +30,8 @@ if [ "$ROOP" == "1" ]; then
 git clone https://github.com/ssitu/ComfyUI_roop
 cd ComfyUI_roop
 ### needed for Roop
-sudo apt-get install build-essential -y
-sudo apt-get install python3-dev -y
+apt-get install build-essential -y
+apt-get install python3-dev -y
 ###
 python install.py
 pip install insightface
