@@ -79,4 +79,4 @@ cd /workspace
 wget https://raw.githubusercontent.com/mav-rik/runpod-comfyui-scripts/master/downloads.sh
 chmod +x ./downloads.sh
 echo "Downloading assets..."
-nohup ./downloads.sh &> ./downloads.log &
+./downloads.sh
