@@ -25,6 +25,18 @@ git clone https://github.com/EllangoK/ComfyUI-post-processing-nodes.git
 git clone https://github.com/Stability-AI/stability-ComfyUI-nodes.git
 wget https://raw.githubusercontent.com/biegert/ComfyUI-CLIPSeg/main/custom_nodes/clipseg.py
 git clone https://github.com/twri/sdxl_prompt_styler.git
+if [ "$ROOP" == "1" ]; then
+### roop
+git clone https://github.com/ssitu/ComfyUI_roop
+cd ComfyUI_roop
+### needed for Roop
+sudo apt-get install build-essential -y
+sudo apt-get install python3-dev -y
+###
+python install.py
+pip install insightface
+cd ..
+fi
 
 ### controlnet
 git clone https://github.com/Fannovel16/comfyui_controlnet_aux/
