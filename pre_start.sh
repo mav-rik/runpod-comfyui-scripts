@@ -78,5 +78,4 @@ nohup python main.py --listen 0.0.0.0 --port 3020 &> ../output.log &
 cd /workspace
 wget https://raw.githubusercontent.com/mav-rik/runpod-comfyui-scripts/master/downloads.sh
 chmod +x ./downloads.sh
-echo "Downloading assets..."
 ./downloads.sh
