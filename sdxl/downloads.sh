@@ -20,8 +20,8 @@ wget --no-verbose https://huggingface.co/ziixzz/codeformer-v0.1.0.pth/resolve/ma
 wget --no-verbose https://github.com/TencentARC/GFPGAN/releases/download/v1.3.4/RestoreFormer.pth
 
 ## ControlNet Models for SDXL
-#echo "Downloading ControlNet for SDXL..."
-#cd /workspace/downloads/controlnet
+echo "Downloading ControlNet for SDXL..."
+cd /workspace/downloads/controlnet
 #wget --no-verbose https://huggingface.co/stabilityai/control-lora/resolve/main/control-LoRAs-rank256/control-lora-recolor-rank256.safetensors
 #wget --no-verbose https://huggingface.co/stabilityai/control-lora/resolve/main/control-LoRAs-rank256/control-lora-sketch-rank256.safetensors
 wget --no-verbose https://huggingface.co/stabilityai/control-lora/resolve/main/control-LoRAs-rank256/control-lora-canny-rank256.safetensors
