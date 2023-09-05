@@ -3,7 +3,7 @@
 if [ -d "/workspace/ComfyUI" ]; then
     echo "Starting ComfyUI..."
     cd /workspace/ComfyUI
-    # source /workspace/sd-venv/bin/activate
+    source /workspace/sd-venv/bin/activate
     nohup python main.py --listen 0.0.0.0 --port 3020 &> ../output.log &    
     exit 0
 fi
@@ -12,8 +12,8 @@ cd /workspace
 
 git clone https://github.com/comfyanonymous/ComfyUI.git
 
-# python -m venv sd-venv
-# source /workspace/sd-venv/bin/activate
+python -m venv sd-venv
+source /workspace/sd-venv/bin/activate
 
 cd ComfyUI
 pip install -r requirements.txt
@@ -72,7 +72,7 @@ cd /workspace
 # run ComfyUI
 cd /workspace/ComfyUI
 echo "Starting ComfyUI..."
-# source /workspace/sd-venv/bin/activate
+source /workspace/sd-venv/bin/activate
 nohup python main.py --listen 0.0.0.0 --port 3020 &> ../output.log &
 
 cd /workspace
