@@ -41,7 +41,7 @@ echo Downloading models in background...
 ./downloads.sh &> ./downloads.log &
 # --------------------------------
 
-cd /workspace/ComfyUI
+cd /workspace
 python -m venv sd-venv
 source /workspace/sd-venv/bin/activate
 
