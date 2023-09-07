@@ -11,7 +11,7 @@ fi
 cd /workspace
 
 git clone https://github.com/comfyanonymous/ComfyUI.git
-wget -O ./web/scripts/defaultGraph.js https://raw.githubusercontent.com/mav-rik/runpod-comfyui-scripts/master/$DOWNLOADS/workflow.js
+wget -O ./ComfyUI/web/scripts/defaultGraph.js https://raw.githubusercontent.com/mav-rik/runpod-comfyui-scripts/master/$DOWNLOADS/workflow.js
 
 # --------------------------------
 
