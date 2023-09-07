@@ -11,7 +11,37 @@ fi
 cd /workspace
 
 git clone https://github.com/comfyanonymous/ComfyUI.git
+wget -O ./web/scripts/defaultGraph.js https://raw.githubusercontent.com/mav-rik/runpod-comfyui-scripts/master/$DOWNLOADS/workflow.js
 
+# --------------------------------
+
+mkdir -p /workspace/downloads/models
+mkdir -p /workspace/downloads/controlnet
+mkdir -p /workspace/downloads/upscale
+mkdir -p /workspace/downloads/face
+mkdir -p /workspace/downloads/vae
+
+# -------------------------
+rm -rf /workspace/ComfyUI/models/checkpoints
+rm -rf /workspace/ComfyUI/models/vae
+rm -rf /workspace/ComfyUI/models/facerestore_models
+rm -rf /workspace/ComfyUI/models/controlnet
+rm -rf /workspace/ComfyUI/models/upscale_models
+ln -s /workspace/downloads/models /workspace/ComfyUI/models/checkpoints
+ln -s /workspace/downloads/vae /workspace/ComfyUI/models/vae
+ln -s /workspace/downloads/face /workspace/ComfyUI/models/facerestore_models
+ln -s /workspace/downloads/controlnet /workspace/ComfyUI/models/controlnet
+ln -s /workspace/downloads/upscale /workspace/ComfyUI/models/upscale_models
+
+# --------------------------------
+cd /workspace
+wget https://raw.githubusercontent.com/mav-rik/runpod-comfyui-scripts/master/$DOWNLOADS/downloads.sh
+chmod +x ./downloads.sh
+echo Downloading models in background...
+./downloads.sh &> ./downloads.log &
+# --------------------------------
+
+cd /workspace/ComfyUI
 python -m venv sd-venv
 source /workspace/sd-venv/bin/activate
 
@@ -65,37 +95,11 @@ cd ..
 #rm -rf facerestore.zip
 #mkdir -p /workspace/ComfyUI/models/facerestore_models
 
-# --------------------------------
-
-mkdir -p /workspace/downloads/models
-mkdir -p /workspace/downloads/controlnet
-mkdir -p /workspace/downloads/upscale
-mkdir -p /workspace/downloads/face
-mkdir -p /workspace/downloads/vae
-
-# -------------------------
-rm -rf /workspace/ComfyUI/models/checkpoints
-rm -rf /workspace/ComfyUI/models/vae
-rm -rf /workspace/ComfyUI/models/facerestore_models
-rm -rf /workspace/ComfyUI/models/controlnet
-rm -rf /workspace/ComfyUI/models/upscale_models
-ln -s /workspace/downloads/models /workspace/ComfyUI/models/checkpoints
-ln -s /workspace/downloads/vae /workspace/ComfyUI/models/vae
-ln -s /workspace/downloads/face /workspace/ComfyUI/models/facerestore_models
-ln -s /workspace/downloads/controlnet /workspace/ComfyUI/models/controlnet
-ln -s /workspace/downloads/upscale /workspace/ComfyUI/models/upscale_models
-
 cd /workspace
 
 # run ComfyUI
 cd /workspace/ComfyUI
-wget -O ./web/scripts/defaultGraph.js https://raw.githubusercontent.com/mav-rik/runpod-comfyui-scripts/master/$DOWNLOADS/workflow.js
 
 echo "Starting ComfyUI..."
 source /workspace/sd-venv/bin/activate
 nohup python main.py --listen 0.0.0.0 --port 3020 &> ../output.log &
-
-cd /workspace
-wget https://raw.githubusercontent.com/mav-rik/runpod-comfyui-scripts/master/$DOWNLOADS/downloads.sh
-chmod +x ./downloads.sh
-./downloads.sh

@@ -3651,7 +3651,7 @@ export const defaultGraph = {
                         "Node name for S&R": "ControlNetLoader"
                     },
                     "widgets_values": [
-                        "OpenPoseXL2.safetensors"
+                        "thibaud_xl_openpose_256lora.safetensors"
                     ]
                 },
                 {

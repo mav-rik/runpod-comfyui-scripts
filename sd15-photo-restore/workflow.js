@@ -2967,7 +2967,7 @@ export const defaultGraph = {
             "widgets_values": [
                 80482747885273,
                 "randomize",
-                17,
+                22,
                 6.5,
                 "dpmpp_2m",
                 "karras",
