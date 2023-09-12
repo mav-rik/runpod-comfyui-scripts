@@ -11,9 +11,9 @@ fi
 cd /workspace
 
 git clone https://github.com/comfyanonymous/ComfyUI.git
-cd ./ComfyUI
-git reset --hard bc1f6e21856f7be25db5c5c2956b89c27db93b3d
-cd /workspace
+#cd ./ComfyUI
+#git reset --hard bc1f6e21856f7be25db5c5c2956b89c27db93b3d
+#cd /workspace
 wget -O ./ComfyUI/web/scripts/defaultGraph.js https://raw.githubusercontent.com/mav-rik/runpod-comfyui-scripts/master/$DOWNLOADS/workflow.js
 
 # --------------------------------
