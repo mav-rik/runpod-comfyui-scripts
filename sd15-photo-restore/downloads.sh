@@ -22,10 +22,11 @@ wget --no-verbose https://github.com/TencentARC/GFPGAN/releases/download/v1.3.4/
 echo "Downloading ControlNet SD1.5"
 cd /workspace/downloads/controlnet
 wget --no-verbose https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_softedge.pth
-wget --no-verbose https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_seg.pth
+# wget --no-verbose https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_seg.pth
 wget --no-verbose https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_openpose.pth
 wget --no-verbose https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_canny.pth
 wget --no-verbose https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11f1p_sd15_depth.pth
+wget --no-verbose -O ioclab_sd15_recolor.safetensors https://huggingface.co/ioclab/control_v1p_sd15_brightness/resolve/main/diffusion_pytorch_model.safetensors
 
 ## upscalers
 echo "Downloading Upscalers..."
