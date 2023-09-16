@@ -1,6 +1,6 @@
 export const defaultGraph = {
-    "last_node_id": 140,
-    "last_link_id": 217,
+    "last_node_id": 141,
+    "last_link_id": 219,
     "nodes": [
         {
             "id": 51,
@@ -14,7 +14,7 @@ export const defaultGraph = {
                 26
             ],
             "flags": {},
-            "order": 61,
+            "order": 62,
             "mode": 0,
             "inputs": [
                 {
@@ -53,7 +53,7 @@ export const defaultGraph = {
                 26
             ],
             "flags": {},
-            "order": 56,
+            "order": 57,
             "mode": 0,
             "inputs": [
                 {
@@ -92,7 +92,7 @@ export const defaultGraph = {
                 26
             ],
             "flags": {},
-            "order": 69,
+            "order": 70,
             "mode": 0,
             "inputs": [
                 {
@@ -132,7 +132,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 80,
+            "order": 81,
             "mode": 0,
             "inputs": [
                 {
@@ -161,7 +161,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 55,
+            "order": 56,
             "mode": 0,
             "inputs": [
                 {
@@ -206,7 +206,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 62,
+            "order": 63,
             "mode": 0,
             "inputs": [
                 {
@@ -232,8 +232,7 @@ export const defaultGraph = {
             },
             "widgets_values": [
                 100,
-                200,
-                512
+                200
             ],
             "color": "#2a363b",
             "bgcolor": "#3f5159"
@@ -252,7 +251,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 70,
+            "order": 71,
             "mode": 0,
             "inputs": [
                 {
@@ -277,8 +276,7 @@ export const defaultGraph = {
                 "Node name for S&R": "HEDPreprocessor"
             },
             "widgets_values": [
-                "enable",
-                512
+                "enable"
             ],
             "color": "#2a363b",
             "bgcolor": "#3f5159"
@@ -297,7 +295,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 76,
+            "order": 77,
             "mode": 0,
             "inputs": [
                 {
@@ -324,8 +322,7 @@ export const defaultGraph = {
             "widgets_values": [
                 "enable",
                 "enable",
-                "enable",
-                512
+                "enable"
             ],
             "color": "#2a363b",
             "bgcolor": "#3f5159"
@@ -488,7 +485,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 78,
+            "order": 79,
             "mode": 0,
             "inputs": [
                 {
@@ -597,7 +594,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 83,
+            "order": 84,
             "mode": 0,
             "inputs": [
                 {
@@ -638,7 +635,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 81,
+            "order": 82,
             "mode": 0,
             "inputs": [
                 {
@@ -708,7 +705,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 84,
+            "order": 85,
             "mode": 0,
             "inputs": [
                 {
@@ -749,7 +746,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 53,
+            "order": 54,
             "mode": 0,
             "inputs": [
                 {
@@ -790,7 +787,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 77,
+            "order": 78,
             "mode": 0,
             "inputs": [
                 {
@@ -819,7 +816,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 71,
+            "order": 72,
             "mode": 0,
             "inputs": [
                 {
@@ -848,7 +845,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 60,
+            "order": 61,
             "mode": 0,
             "inputs": [
                 {
@@ -920,7 +917,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 59,
+            "order": 60,
             "mode": 0,
             "inputs": [
                 {
@@ -1064,7 +1061,7 @@ export const defaultGraph = {
                 26
             ],
             "flags": {},
-            "order": 20,
+            "order": 19,
             "mode": 0,
             "inputs": [
                 {
@@ -1103,7 +1100,7 @@ export const defaultGraph = {
                 26
             ],
             "flags": {},
-            "order": 88,
+            "order": 89,
             "mode": 0,
             "inputs": [
                 {
@@ -1142,7 +1139,7 @@ export const defaultGraph = {
                 26
             ],
             "flags": {},
-            "order": 85,
+            "order": 86,
             "mode": 0,
             "inputs": [
                 {
@@ -1181,7 +1178,7 @@ export const defaultGraph = {
                 26
             ],
             "flags": {},
-            "order": 44,
+            "order": 43,
             "mode": 0,
             "inputs": [
                 {
@@ -1220,7 +1217,7 @@ export const defaultGraph = {
                 "1": 402
             },
             "flags": {},
-            "order": 92,
+            "order": 93,
             "mode": 0,
             "inputs": [
                 {
@@ -1250,7 +1247,7 @@ export const defaultGraph = {
             "flags": {
                 "collapsed": true
             },
-            "order": 90,
+            "order": 91,
             "mode": 0,
             "inputs": [
                 {
@@ -1295,7 +1292,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 63,
+            "order": 64,
             "mode": 0,
             "inputs": [
                 {
@@ -1338,7 +1335,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 65,
+            "order": 66,
             "mode": 0,
             "inputs": [
                 {
@@ -1379,7 +1376,7 @@ export const defaultGraph = {
                 26
             ],
             "flags": {},
-            "order": 82,
+            "order": 83,
             "mode": 0,
             "inputs": [
                 {
@@ -1420,7 +1417,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 75,
+            "order": 76,
             "mode": 0,
             "inputs": [
                 {
@@ -1459,7 +1456,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 64,
+            "order": 65,
             "mode": 0,
             "inputs": [
                 {
@@ -1498,7 +1495,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 73,
+            "order": 74,
             "mode": 0,
             "inputs": [
                 {
@@ -1537,7 +1534,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 74,
+            "order": 75,
             "mode": 0,
             "inputs": [
                 {
@@ -1578,7 +1575,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 57,
+            "order": 58,
             "mode": 0,
             "inputs": [
                 {
@@ -1621,7 +1618,7 @@ export const defaultGraph = {
                 26
             ],
             "flags": {},
-            "order": 79,
+            "order": 80,
             "mode": 0,
             "inputs": [
                 {
@@ -1705,7 +1702,7 @@ export const defaultGraph = {
                 26
             ],
             "flags": {},
-            "order": 51,
+            "order": 53,
             "mode": 0,
             "inputs": [
                 {
@@ -1744,7 +1741,7 @@ export const defaultGraph = {
                 26
             ],
             "flags": {},
-            "order": 42,
+            "order": 46,
             "mode": 0,
             "inputs": [
                 {
@@ -1782,7 +1779,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 54,
+            "order": 55,
             "mode": 0,
             "inputs": [
                 {
@@ -1823,7 +1820,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 19,
+            "order": 18,
             "mode": 0,
             "inputs": [
                 {
@@ -1848,49 +1845,6 @@ export const defaultGraph = {
             }
         },
         {
-            "id": 47,
-            "type": "LoadImage",
-            "pos": [
-                -641,
-                990
-            ],
-            "size": {
-                "0": 402.1015625,
-                "1": 525.2821044921875
-            },
-            "flags": {},
-            "order": 4,
-            "mode": 0,
-            "inputs": [],
-            "outputs": [
-                {
-                    "name": "IMAGE",
-                    "type": "IMAGE",
-                    "links": [
-                        148
-                    ],
-                    "shape": 3,
-                    "slot_index": 0
-                },
-                {
-                    "name": "MASK",
-                    "type": "MASK",
-                    "links": null,
-                    "shape": 3
-                }
-            ],
-            "title": "INPUT",
-            "properties": {
-                "Node name for S&R": "LoadImage"
-            },
-            "widgets_values": [
-                "1.jpg",
-                "image"
-            ],
-            "color": "#222",
-            "bgcolor": "#000"
-        },
-        {
             "id": 85,
             "type": "Reroute",
             "pos": [
@@ -1902,7 +1856,7 @@ export const defaultGraph = {
                 26
             ],
             "flags": {},
-            "order": 46,
+            "order": 48,
             "mode": 0,
             "inputs": [
                 {
@@ -1942,7 +1896,7 @@ export const defaultGraph = {
                 "1": 102
             },
             "flags": {},
-            "order": 41,
+            "order": 45,
             "mode": 0,
             "inputs": [
                 {
@@ -1990,7 +1944,7 @@ export const defaultGraph = {
                 "1": 58
             },
             "flags": {},
-            "order": 5,
+            "order": 4,
             "mode": 0,
             "outputs": [
                 {
@@ -2025,7 +1979,7 @@ export const defaultGraph = {
                 "1": 496.2021179199219
             },
             "flags": {},
-            "order": 49,
+            "order": 51,
             "mode": 0,
             "inputs": [
                 {
@@ -2053,7 +2007,7 @@ export const defaultGraph = {
                 "1": 58
             },
             "flags": {},
-            "order": 6,
+            "order": 5,
             "mode": 0,
             "outputs": [
                 {
@@ -2088,7 +2042,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 7,
+            "order": 6,
             "mode": 0,
             "inputs": [],
             "outputs": [
@@ -2114,7 +2068,7 @@ export const defaultGraph = {
                 "Node name for S&R": "LoadImage"
             },
             "widgets_values": [
-                "example.png",
+                "1 (1).jpg",
                 "image"
             ],
             "color": "#232",
@@ -2134,7 +2088,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 66,
+            "order": 67,
             "mode": 0,
             "inputs": [
                 {
@@ -2175,7 +2129,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 68,
+            "order": 69,
             "mode": 0,
             "inputs": [
                 {
@@ -2216,7 +2170,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 58,
+            "order": 59,
             "mode": 0,
             "inputs": [
                 {
@@ -2265,7 +2219,7 @@ export const defaultGraph = {
                 26
             ],
             "flags": {},
-            "order": 17,
+            "order": 16,
             "mode": 0,
             "inputs": [
                 {
@@ -2309,7 +2263,7 @@ export const defaultGraph = {
                 26
             ],
             "flags": {},
-            "order": 91,
+            "order": 92,
             "mode": 0,
             "inputs": [
                 {
@@ -2351,7 +2305,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 94,
+            "order": 95,
             "mode": 0,
             "inputs": [
                 {
@@ -2471,7 +2425,7 @@ export const defaultGraph = {
                 26
             ],
             "flags": {},
-            "order": 86,
+            "order": 87,
             "mode": 0,
             "inputs": [
                 {
@@ -2511,7 +2465,7 @@ export const defaultGraph = {
                 26
             ],
             "flags": {},
-            "order": 87,
+            "order": 88,
             "mode": 0,
             "inputs": [
                 {
@@ -2551,7 +2505,7 @@ export const defaultGraph = {
                 "1": 582.8953857421875
             },
             "flags": {},
-            "order": 99,
+            "order": 100,
             "mode": 0,
             "inputs": [
                 {
@@ -2580,7 +2534,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": false
             },
-            "order": 72,
+            "order": 73,
             "mode": 0,
             "inputs": [
                 {
@@ -2650,7 +2604,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 67,
+            "order": 68,
             "mode": 0,
             "inputs": [
                 {
@@ -2720,7 +2674,7 @@ export const defaultGraph = {
                 26
             ],
             "flags": {},
-            "order": 43,
+            "order": 42,
             "mode": 0,
             "inputs": [
                 {
@@ -2759,7 +2713,7 @@ export const defaultGraph = {
                 26
             ],
             "flags": {},
-            "order": 93,
+            "order": 94,
             "mode": 0,
             "inputs": [
                 {
@@ -2791,125 +2745,6 @@ export const defaultGraph = {
             "bgcolor": "#653"
         },
         {
-            "id": 117,
-            "type": "UltimateSDUpscale",
-            "pos": [
-                540,
-                2040
-            ],
-            "size": {
-                "0": 315,
-                "1": 590
-            },
-            "flags": {},
-            "order": 98,
-            "mode": 0,
-            "inputs": [
-                {
-                    "name": "image",
-                    "type": "IMAGE",
-                    "link": null
-                },
-                {
-                    "name": "model",
-                    "type": "MODEL",
-                    "link": 170
-                },
-                {
-                    "name": "positive",
-                    "type": "CONDITIONING",
-                    "link": 215
-                },
-                {
-                    "name": "negative",
-                    "type": "CONDITIONING",
-                    "link": 216
-                },
-                {
-                    "name": "vae",
-                    "type": "VAE",
-                    "link": 173
-                },
-                {
-                    "name": "upscale_model",
-                    "type": "UPSCALE_MODEL",
-                    "link": 174,
-                    "slot_index": 5
-                },
-                {
-                    "name": "tile_width",
-                    "type": "INT",
-                    "link": 175,
-                    "widget": {
-                        "name": "tile_width",
-                        "config": [
-                            "INT",
-                            {
-                                "default": 512,
-                                "min": 64,
-                                "max": 8192,
-                                "step": 8
-                            }
-                        ]
-                    }
-                },
-                {
-                    "name": "tile_height",
-                    "type": "INT",
-                    "link": 176,
-                    "widget": {
-                        "name": "tile_height",
-                        "config": [
-                            "INT",
-                            {
-                                "default": 512,
-                                "min": 64,
-                                "max": 8192,
-                                "step": 8
-                            }
-                        ]
-                    }
-                }
-            ],
-            "outputs": [
-                {
-                    "name": "IMAGE",
-                    "type": "IMAGE",
-                    "links": [
-                        177
-                    ],
-                    "shape": 3,
-                    "slot_index": 0
-                }
-            ],
-            "properties": {
-                "Node name for S&R": "UltimateSDUpscale"
-            },
-            "widgets_values": [
-                2,
-                159,
-                "fixed",
-                15,
-                8.5,
-                "dpmpp_sde",
-                "karras",
-                0.2199999999999999,
-                "Chess",
-                512,
-                512,
-                8,
-                48,
-                "None",
-                1,
-                64,
-                8,
-                16,
-                "enable"
-            ],
-            "color": "#323",
-            "bgcolor": "#535"
-        },
-        {
             "id": 121,
             "type": "PreviewImage",
             "pos": [
@@ -2921,7 +2756,7 @@ export const defaultGraph = {
                 "1": 583.8632202148438
             },
             "flags": {},
-            "order": 97,
+            "order": 98,
             "mode": 0,
             "inputs": [
                 {
@@ -2946,7 +2781,7 @@ export const defaultGraph = {
                 "1": 46
             },
             "flags": {},
-            "order": 95,
+            "order": 96,
             "mode": 0,
             "inputs": [
                 {
@@ -2990,7 +2825,7 @@ export const defaultGraph = {
             "flags": {
                 "collapsed": true
             },
-            "order": 8,
+            "order": 7,
             "mode": 0,
             "outputs": [
                 {
@@ -3006,7 +2841,7 @@ export const defaultGraph = {
                 "Node name for S&R": "UpscaleModelLoader"
             },
             "widgets_values": [
-                "4xESRGAN.pth"
+                "1x_ISO_denoise_v1.pth"
             ]
         },
         {
@@ -3021,7 +2856,7 @@ export const defaultGraph = {
                 26
             ],
             "flags": {},
-            "order": 21,
+            "order": 20,
             "mode": 0,
             "inputs": [
                 {
@@ -3064,7 +2899,7 @@ export const defaultGraph = {
                 "1": 82
             },
             "flags": {},
-            "order": 48,
+            "order": 50,
             "mode": 0,
             "inputs": [
                 {
@@ -3108,7 +2943,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 27,
+            "order": 26,
             "mode": 0,
             "inputs": [
                 {
@@ -3198,7 +3033,7 @@ export const defaultGraph = {
                 26
             ],
             "flags": {},
-            "order": 28,
+            "order": 41,
             "mode": 0,
             "inputs": [
                 {
@@ -3238,7 +3073,7 @@ export const defaultGraph = {
                 "1": 98
             },
             "flags": {},
-            "order": 9,
+            "order": 8,
             "mode": 0,
             "outputs": [
                 {
@@ -3292,7 +3127,7 @@ export const defaultGraph = {
                 26
             ],
             "flags": {},
-            "order": 18,
+            "order": 17,
             "mode": 0,
             "inputs": [
                 {
@@ -3365,7 +3200,7 @@ export const defaultGraph = {
                 26
             ],
             "flags": {},
-            "order": 22,
+            "order": 21,
             "mode": 0,
             "inputs": [
                 {
@@ -3401,7 +3236,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 26,
+            "order": 25,
             "mode": 0,
             "inputs": [
                 {
@@ -3444,7 +3279,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 25,
+            "order": 24,
             "mode": 0,
             "inputs": [
                 {
@@ -3552,14 +3387,14 @@ export const defaultGraph = {
                 315,
                 309
             ],
-            "size": [
-                315,
-                314
-            ],
+            "size": {
+                "0": 315,
+                "1": 314
+            },
             "flags": {
                 "pinned": true
             },
-            "order": 10,
+            "order": 9,
             "mode": 0,
             "outputs": [
                 {
@@ -3582,7 +3417,7 @@ export const defaultGraph = {
                 "Node name for S&R": "LoadImage"
             },
             "widgets_values": [
-                "bw.jpg",
+                "example.png",
                 "image"
             ]
         },
@@ -3600,7 +3435,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 11,
+            "order": 10,
             "mode": 0,
             "inputs": [
                 {
@@ -3638,7 +3473,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 12,
+            "order": 11,
             "mode": 0,
             "inputs": [
                 {
@@ -3669,14 +3504,14 @@ export const defaultGraph = {
                 1021,
                 549
             ],
-            "size": [
-                315,
-                106
-            ],
+            "size": {
+                "0": 315,
+                "1": 106
+            },
             "flags": {
                 "pinned": true
             },
-            "order": 45,
+            "order": 44,
             "mode": 0,
             "inputs": [
                 {
@@ -3748,7 +3583,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 13,
+            "order": 12,
             "mode": 0,
             "outputs": [
                 {
@@ -3765,7 +3600,7 @@ export const defaultGraph = {
                 "Node name for S&R": "ControlNetLoader"
             },
             "widgets_values": [
-                "ioclab_sd15_recolor.safetensors"
+                "control_v11f1p_sd15_depth.pth"
             ],
             "color": "#2a363b",
             "bgcolor": "#3f5159"
@@ -3824,7 +3659,7 @@ export const defaultGraph = {
                 "Node name for S&R": "KSampler"
             },
             "widgets_values": [
-                995183753297533,
+                226075959935103,
                 "randomize",
                 25,
                 6.5,
@@ -3847,7 +3682,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 50,
+            "order": 49,
             "mode": 0,
             "inputs": [
                 {
@@ -3883,10 +3718,10 @@ export const defaultGraph = {
                 1727,
                 181
             ],
-            "size": [
-                656.9487285673831,
-                577.5031739453127
-            ],
+            "size": {
+                "0": 656.94873046875,
+                "1": 577.503173828125
+            },
             "flags": {
                 "pinned": true
             },
@@ -3915,7 +3750,7 @@ export const defaultGraph = {
                 26
             ],
             "flags": {},
-            "order": 16,
+            "order": 27,
             "mode": 0,
             "inputs": [
                 {
@@ -3946,6 +3781,204 @@ export const defaultGraph = {
             "bgcolor": "#000"
         },
         {
+            "id": 37,
+            "type": "CLIPTextEncode",
+            "pos": [
+                -190,
+                1081
+            ],
+            "size": {
+                "0": 394.78350830078125,
+                "1": 163.26902770996094
+            },
+            "flags": {},
+            "order": 22,
+            "mode": 0,
+            "inputs": [
+                {
+                    "name": "clip",
+                    "type": "CLIP",
+                    "link": 57
+                }
+            ],
+            "outputs": [
+                {
+                    "name": "CONDITIONING",
+                    "type": "CONDITIONING",
+                    "links": [
+                        113,
+                        210
+                    ],
+                    "shape": 3,
+                    "slot_index": 0
+                }
+            ],
+            "properties": {
+                "Node name for S&R": "CLIPTextEncode"
+            },
+            "widgets_values": [
+                ""
+            ],
+            "color": "#232",
+            "bgcolor": "#353"
+        },
+        {
+            "id": 38,
+            "type": "CLIPTextEncode",
+            "pos": [
+                -185,
+                1291
+            ],
+            "size": {
+                "0": 377,
+                "1": 107
+            },
+            "flags": {},
+            "order": 23,
+            "mode": 0,
+            "inputs": [
+                {
+                    "name": "clip",
+                    "type": "CLIP",
+                    "link": 58
+                }
+            ],
+            "outputs": [
+                {
+                    "name": "CONDITIONING",
+                    "type": "CONDITIONING",
+                    "links": [
+                        114,
+                        211
+                    ],
+                    "shape": 3,
+                    "slot_index": 0
+                }
+            ],
+            "properties": {
+                "Node name for S&R": "CLIPTextEncode"
+            },
+            "widgets_values": [
+                "distorted, blurred, bad quality,"
+            ],
+            "color": "#322",
+            "bgcolor": "#533"
+        },
+        {
+            "id": 140,
+            "type": "ControlNetApply",
+            "pos": [
+                -20,
+                2386
+            ],
+            "size": {
+                "0": 317.4000244140625,
+                "1": 98
+            },
+            "flags": {},
+            "order": 97,
+            "mode": 0,
+            "inputs": [
+                {
+                    "name": "conditioning",
+                    "type": "CONDITIONING",
+                    "link": 214
+                },
+                {
+                    "name": "control_net",
+                    "type": "CONTROL_NET",
+                    "link": 213
+                },
+                {
+                    "name": "image",
+                    "type": "IMAGE",
+                    "link": 217
+                }
+            ],
+            "outputs": [
+                {
+                    "name": "CONDITIONING",
+                    "type": "CONDITIONING",
+                    "links": [
+                        215
+                    ],
+                    "shape": 3,
+                    "slot_index": 0
+                }
+            ],
+            "properties": {
+                "Node name for S&R": "ControlNetApply"
+            },
+            "widgets_values": [
+                1
+            ]
+        },
+        {
+            "id": 139,
+            "type": "ControlNetLoader",
+            "pos": [
+                -27,
+                2274
+            ],
+            "size": {
+                "0": 315,
+                "1": 58
+            },
+            "flags": {},
+            "order": 13,
+            "mode": 0,
+            "outputs": [
+                {
+                    "name": "CONTROL_NET",
+                    "type": "CONTROL_NET",
+                    "links": [
+                        213
+                    ],
+                    "shape": 3,
+                    "slot_index": 0
+                }
+            ],
+            "properties": {
+                "Node name for S&R": "ControlNetLoader"
+            },
+            "widgets_values": [
+                "control_v11f1p_sd15_depth.pth"
+            ]
+        },
+        {
+            "id": 118,
+            "type": "UpscaleModelLoader",
+            "pos": [
+                -23,
+                2532
+            ],
+            "size": {
+                "0": 315,
+                "1": 58
+            },
+            "flags": {},
+            "order": 14,
+            "mode": 0,
+            "outputs": [
+                {
+                    "name": "UPSCALE_MODEL",
+                    "type": "UPSCALE_MODEL",
+                    "links": [
+                        174
+                    ],
+                    "shape": 3
+                }
+            ],
+            "properties": {
+                "Node name for S&R": "UpscaleModelLoader"
+            },
+            "widgets_values": [
+                "4xESRGAN.pth"
+            ],
+            "color": "#323",
+            "bgcolor": "#535"
+        },
+        {
             "id": 39,
             "type": "KSampler",
             "pos": [
@@ -3957,7 +3990,7 @@ export const defaultGraph = {
                 "1": 262
             },
             "flags": {},
-            "order": 89,
+            "order": 90,
             "mode": 0,
             "inputs": [
                 {
@@ -4003,148 +4036,203 @@ export const defaultGraph = {
                 6.5,
                 "dpmpp_2m_sde",
                 "exponential",
-                0.49999999999999956
+                0.37
             ]
         },
         {
-            "id": 37,
-            "type": "CLIPTextEncode",
+            "id": 47,
+            "type": "LoadImage",
             "pos": [
-                -190,
-                1081
+                -641,
+                990
             ],
             "size": {
-                "0": 394.78350830078125,
-                "1": 163.26902770996094
+                "0": 402.1015625,
+                "1": 525.2821044921875
             },
             "flags": {},
-            "order": 23,
+            "order": 15,
             "mode": 0,
-            "inputs": [
-                {
-                    "name": "clip",
-                    "type": "CLIP",
-                    "link": 57
-                }
-            ],
+            "inputs": [],
             "outputs": [
                 {
-                    "name": "CONDITIONING",
-                    "type": "CONDITIONING",
+                    "name": "IMAGE",
+                    "type": "IMAGE",
                     "links": [
-                        113,
-                        210
+                        148,
+                        219
                     ],
                     "shape": 3,
                     "slot_index": 0
+                },
+                {
+                    "name": "MASK",
+                    "type": "MASK",
+                    "links": null,
+                    "shape": 3
                 }
             ],
+            "title": "INPUT",
             "properties": {
-                "Node name for S&R": "CLIPTextEncode"
+                "Node name for S&R": "LoadImage"
             },
             "widgets_values": [
-                ""
+                "1.jpg",
+                "image"
             ],
-            "color": "#232",
-            "bgcolor": "#353"
+            "color": "#222",
+            "bgcolor": "#000"
         },
         {
-            "id": 38,
-            "type": "CLIPTextEncode",
+            "id": 141,
+            "type": "PreviewImage",
             "pos": [
-                -185,
-                1291
+                2595,
+                1385
             ],
-            "size": {
-                "0": 377,
-                "1": 107
-            },
+            "size": [
+                485.22839885235317,
+                393.5586971115529
+            ],
             "flags": {},
-            "order": 24,
+            "order": 28,
             "mode": 0,
             "inputs": [
                 {
-                    "name": "clip",
-                    "type": "CLIP",
-                    "link": 58
-                }
-            ],
-            "outputs": [
-                {
-                    "name": "CONDITIONING",
-                    "type": "CONDITIONING",
-                    "links": [
-                        114,
-                        211
-                    ],
-                    "shape": 3,
-                    "slot_index": 0
+                    "name": "images",
+                    "type": "IMAGE",
+                    "link": 219
                 }
             ],
             "properties": {
-                "Node name for S&R": "CLIPTextEncode"
-            },
-            "widgets_values": [
-                "distorted, blurred, bad quality,"
-            ],
-            "color": "#322",
-            "bgcolor": "#533"
+                "Node name for S&R": "PreviewImage"
+            }
         },
         {
-            "id": 140,
-            "type": "ControlNetApply",
+            "id": 117,
+            "type": "UltimateSDUpscale",
             "pos": [
-                -20,
-                2386
+                540,
+                2040
             ],
             "size": {
-                "0": 317.4000244140625,
-                "1": 98
+                "0": 315,
+                "1": 590
             },
             "flags": {},
-            "order": 96,
+            "order": 99,
             "mode": 0,
             "inputs": [
-                {
-                    "name": "conditioning",
-                    "type": "CONDITIONING",
-                    "link": 214
-                },
-                {
-                    "name": "control_net",
-                    "type": "CONTROL_NET",
-                    "link": 213
-                },
                 {
                     "name": "image",
                     "type": "IMAGE",
-                    "link": 217
+                    "link": null
+                },
+                {
+                    "name": "model",
+                    "type": "MODEL",
+                    "link": 170
+                },
+                {
+                    "name": "positive",
+                    "type": "CONDITIONING",
+                    "link": 215
+                },
+                {
+                    "name": "negative",
+                    "type": "CONDITIONING",
+                    "link": 216
+                },
+                {
+                    "name": "vae",
+                    "type": "VAE",
+                    "link": 173
+                },
+                {
+                    "name": "upscale_model",
+                    "type": "UPSCALE_MODEL",
+                    "link": 174,
+                    "slot_index": 5
+                },
+                {
+                    "name": "tile_width",
+                    "type": "INT",
+                    "link": 175,
+                    "widget": {
+                        "name": "tile_width",
+                        "config": [
+                            "INT",
+                            {
+                                "default": 512,
+                                "min": 64,
+                                "max": 8192,
+                                "step": 8
+                            }
+                        ]
+                    }
+                },
+                {
+                    "name": "tile_height",
+                    "type": "INT",
+                    "link": 176,
+                    "widget": {
+                        "name": "tile_height",
+                        "config": [
+                            "INT",
+                            {
+                                "default": 512,
+                                "min": 64,
+                                "max": 8192,
+                                "step": 8
+                            }
+                        ]
+                    }
                 }
             ],
             "outputs": [
                 {
-                    "name": "CONDITIONING",
-                    "type": "CONDITIONING",
+                    "name": "IMAGE",
+                    "type": "IMAGE",
                     "links": [
-                        215
+                        177
                     ],
                     "shape": 3,
                     "slot_index": 0
                 }
             ],
             "properties": {
-                "Node name for S&R": "ControlNetApply"
+                "Node name for S&R": "UltimateSDUpscale"
             },
             "widgets_values": [
-                1
-            ]
+                3,
+                1,
+                "fixed",
+                22,
+                8.5,
+                "dpmpp_2m_sde",
+                "karras",
+                0.2199999999999999,
+                "Chess",
+                512,
+                512,
+                8,
+                48,
+                "None",
+                1,
+                64,
+                8,
+                16,
+                "enable"
+            ],
+            "color": "#323",
+            "bgcolor": "#535"
         },
         {
             "id": 116,
             "type": "Reroute",
             "pos": [
-                321,
-                2138
+                322,
+                2137
             ],
             "size": [
                 75,
@@ -4183,8 +4271,8 @@ export const defaultGraph = {
             "id": 115,
             "type": "Reroute",
             "pos": [
-                -162,
-                2381
+                -157,
+                2385
             ],
             "size": [
                 75,
@@ -4218,71 +4306,6 @@ export const defaultGraph = {
             },
             "color": "#232",
             "bgcolor": "#353"
-        },
-        {
-            "id": 139,
-            "type": "ControlNetLoader",
-            "pos": [
-                -27,
-                2274
-            ],
-            "size": {
-                "0": 315,
-                "1": 58
-            },
-            "flags": {},
-            "order": 14,
-            "mode": 0,
-            "outputs": [
-                {
-                    "name": "CONTROL_NET",
-                    "type": "CONTROL_NET",
-                    "links": [
-                        213
-                    ],
-                    "shape": 3,
-                    "slot_index": 0
-                }
-            ],
-            "properties": {
-                "Node name for S&R": "ControlNetLoader"
-            },
-            "widgets_values": [
-                "control_v11f1e_sd15_tile.pth"
-            ]
-        },
-        {
-            "id": 118,
-            "type": "UpscaleModelLoader",
-            "pos": [
-                -23,
-                2532
-            ],
-            "size": {
-                "0": 315,
-                "1": 58
-            },
-            "flags": {},
-            "order": 15,
-            "mode": 0,
-            "outputs": [
-                {
-                    "name": "UPSCALE_MODEL",
-                    "type": "UPSCALE_MODEL",
-                    "links": [
-                        174
-                    ],
-                    "shape": 3
-                }
-            ],
-            "properties": {
-                "Node name for S&R": "UpscaleModelLoader"
-            },
-            "widgets_values": [
-                "4x_Valar_v1.pth"
-            ],
-            "color": "#323",
-            "bgcolor": "#535"
         }
     ],
     "links": [
@@ -5252,6 +5275,14 @@ export const defaultGraph = {
             0,
             140,
             2,
+            "IMAGE"
+        ],
+        [
+            219,
+            47,
+            0,
+            141,
+            0,
             "IMAGE"
         ]
     ],
