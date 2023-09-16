@@ -3425,7 +3425,7 @@ export const defaultGraph = {
                 "Node name for S&R": "CLIPTextEncode"
             },
             "widgets_values": [
-                "1st of may demonstration in Soviet Union, a group of people in winter clothes, snow in background, soviet architecture"
+                ""
             ],
             "color": "#232",
             "bgcolor": "#353"
@@ -4043,7 +4043,7 @@ export const defaultGraph = {
                 "Node name for S&R": "CLIPTextEncode"
             },
             "widgets_values": [
-                "1st of may demonstration in Soviet Union, a group of people in winter clothes, snow in background, soviet architecture"
+                ""
             ],
             "color": "#232",
             "bgcolor": "#353"
