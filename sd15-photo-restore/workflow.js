@@ -1,6 +1,6 @@
 export const defaultGraph = {
-    "last_node_id": 141,
-    "last_link_id": 219,
+    "last_node_id": 147,
+    "last_link_id": 245,
     "nodes": [
         {
             "id": 51,
@@ -14,7 +14,7 @@ export const defaultGraph = {
                 26
             ],
             "flags": {},
-            "order": 62,
+            "order": 69,
             "mode": 0,
             "inputs": [
                 {
@@ -53,7 +53,7 @@ export const defaultGraph = {
                 26
             ],
             "flags": {},
-            "order": 57,
+            "order": 64,
             "mode": 0,
             "inputs": [
                 {
@@ -92,7 +92,7 @@ export const defaultGraph = {
                 26
             ],
             "flags": {},
-            "order": 70,
+            "order": 77,
             "mode": 0,
             "inputs": [
                 {
@@ -132,7 +132,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 81,
+            "order": 90,
             "mode": 0,
             "inputs": [
                 {
@@ -161,7 +161,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 56,
+            "order": 63,
             "mode": 0,
             "inputs": [
                 {
@@ -206,7 +206,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 63,
+            "order": 70,
             "mode": 0,
             "inputs": [
                 {
@@ -251,7 +251,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 71,
+            "order": 78,
             "mode": 0,
             "inputs": [
                 {
@@ -295,7 +295,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 77,
+            "order": 85,
             "mode": 0,
             "inputs": [
                 {
@@ -485,7 +485,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 79,
+            "order": 87,
             "mode": 0,
             "inputs": [
                 {
@@ -555,7 +555,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 35,
+            "order": 37,
             "mode": 0,
             "inputs": [
                 {
@@ -594,7 +594,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 84,
+            "order": 93,
             "mode": 0,
             "inputs": [
                 {
@@ -635,7 +635,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 82,
+            "order": 91,
             "mode": 0,
             "inputs": [
                 {
@@ -705,7 +705,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 85,
+            "order": 94,
             "mode": 0,
             "inputs": [
                 {
@@ -746,7 +746,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 54,
+            "order": 61,
             "mode": 0,
             "inputs": [
                 {
@@ -787,7 +787,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 78,
+            "order": 86,
             "mode": 0,
             "inputs": [
                 {
@@ -816,7 +816,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 72,
+            "order": 79,
             "mode": 0,
             "inputs": [
                 {
@@ -845,7 +845,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 61,
+            "order": 68,
             "mode": 0,
             "inputs": [
                 {
@@ -917,7 +917,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 60,
+            "order": 67,
             "mode": 0,
             "inputs": [
                 {
@@ -946,7 +946,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 37,
+            "order": 39,
             "mode": 0,
             "inputs": [
                 {
@@ -983,7 +983,7 @@ export const defaultGraph = {
                 26
             ],
             "flags": {},
-            "order": 31,
+            "order": 33,
             "mode": 0,
             "inputs": [
                 {
@@ -1022,7 +1022,7 @@ export const defaultGraph = {
                 26
             ],
             "flags": {},
-            "order": 33,
+            "order": 35,
             "mode": 0,
             "inputs": [
                 {
@@ -1061,7 +1061,7 @@ export const defaultGraph = {
                 26
             ],
             "flags": {},
-            "order": 19,
+            "order": 20,
             "mode": 0,
             "inputs": [
                 {
@@ -1100,7 +1100,7 @@ export const defaultGraph = {
                 26
             ],
             "flags": {},
-            "order": 89,
+            "order": 98,
             "mode": 0,
             "inputs": [
                 {
@@ -1139,7 +1139,7 @@ export const defaultGraph = {
                 26
             ],
             "flags": {},
-            "order": 86,
+            "order": 95,
             "mode": 0,
             "inputs": [
                 {
@@ -1178,7 +1178,7 @@ export const defaultGraph = {
                 26
             ],
             "flags": {},
-            "order": 43,
+            "order": 46,
             "mode": 0,
             "inputs": [
                 {
@@ -1217,7 +1217,7 @@ export const defaultGraph = {
                 "1": 402
             },
             "flags": {},
-            "order": 93,
+            "order": 102,
             "mode": 0,
             "inputs": [
                 {
@@ -1247,7 +1247,7 @@ export const defaultGraph = {
             "flags": {
                 "collapsed": true
             },
-            "order": 91,
+            "order": 100,
             "mode": 0,
             "inputs": [
                 {
@@ -1292,7 +1292,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 64,
+            "order": 71,
             "mode": 0,
             "inputs": [
                 {
@@ -1335,7 +1335,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 66,
+            "order": 73,
             "mode": 0,
             "inputs": [
                 {
@@ -1376,7 +1376,7 @@ export const defaultGraph = {
                 26
             ],
             "flags": {},
-            "order": 83,
+            "order": 92,
             "mode": 0,
             "inputs": [
                 {
@@ -1417,7 +1417,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 76,
+            "order": 83,
             "mode": 0,
             "inputs": [
                 {
@@ -1456,7 +1456,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 65,
+            "order": 72,
             "mode": 0,
             "inputs": [
                 {
@@ -1495,7 +1495,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 74,
+            "order": 81,
             "mode": 0,
             "inputs": [
                 {
@@ -1534,7 +1534,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 75,
+            "order": 82,
             "mode": 0,
             "inputs": [
                 {
@@ -1575,7 +1575,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 58,
+            "order": 65,
             "mode": 0,
             "inputs": [
                 {
@@ -1618,7 +1618,7 @@ export const defaultGraph = {
                 26
             ],
             "flags": {},
-            "order": 80,
+            "order": 88,
             "mode": 0,
             "inputs": [
                 {
@@ -1663,7 +1663,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 29,
+            "order": 31,
             "mode": 0,
             "inputs": [
                 {
@@ -1702,7 +1702,7 @@ export const defaultGraph = {
                 26
             ],
             "flags": {},
-            "order": 53,
+            "order": 60,
             "mode": 0,
             "inputs": [
                 {
@@ -1741,7 +1741,7 @@ export const defaultGraph = {
                 26
             ],
             "flags": {},
-            "order": 46,
+            "order": 48,
             "mode": 0,
             "inputs": [
                 {
@@ -1779,7 +1779,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 55,
+            "order": 62,
             "mode": 0,
             "inputs": [
                 {
@@ -1820,13 +1820,13 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 18,
+            "order": 19,
             "mode": 0,
             "inputs": [
                 {
                     "name": "mask",
                     "type": "MASK",
-                    "link": 137
+                    "link": 223
                 }
             ],
             "outputs": [
@@ -1856,7 +1856,7 @@ export const defaultGraph = {
                 26
             ],
             "flags": {},
-            "order": 48,
+            "order": 54,
             "mode": 0,
             "inputs": [
                 {
@@ -1881,54 +1881,6 @@ export const defaultGraph = {
                 "showOutputText": false,
                 "horizontal": false
             },
-            "color": "#233",
-            "bgcolor": "#355"
-        },
-        {
-            "id": 81,
-            "type": "FaceRestoreCFWithModel",
-            "pos": [
-                -1594,
-                1692
-            ],
-            "size": {
-                "0": 315,
-                "1": 102
-            },
-            "flags": {},
-            "order": 45,
-            "mode": 0,
-            "inputs": [
-                {
-                    "name": "facerestore_model",
-                    "type": "FACERESTORE_MODEL",
-                    "link": 122,
-                    "slot_index": 0
-                },
-                {
-                    "name": "image",
-                    "type": "IMAGE",
-                    "link": 121
-                }
-            ],
-            "outputs": [
-                {
-                    "name": "IMAGE",
-                    "type": "IMAGE",
-                    "links": [
-                        126
-                    ],
-                    "shape": 3,
-                    "slot_index": 0
-                }
-            ],
-            "properties": {
-                "Node name for S&R": "FaceRestoreCFWithModel"
-            },
-            "widgets_values": [
-                "retinaface_resnet50",
-                0.98
-            ],
             "color": "#233",
             "bgcolor": "#355"
         },
@@ -1979,7 +1931,7 @@ export const defaultGraph = {
                 "1": 496.2021179199219
             },
             "flags": {},
-            "order": 51,
+            "order": 58,
             "mode": 0,
             "inputs": [
                 {
@@ -2057,7 +2009,7 @@ export const defaultGraph = {
                     "name": "MASK",
                     "type": "MASK",
                     "links": [
-                        137
+                        223
                     ],
                     "shape": 3,
                     "slot_index": 1
@@ -2068,7 +2020,7 @@ export const defaultGraph = {
                 "Node name for S&R": "LoadImage"
             },
             "widgets_values": [
-                "1 (1).jpg",
+                "2 (3).jpg",
                 "image"
             ],
             "color": "#232",
@@ -2088,7 +2040,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 67,
+            "order": 74,
             "mode": 0,
             "inputs": [
                 {
@@ -2129,7 +2081,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 69,
+            "order": 76,
             "mode": 0,
             "inputs": [
                 {
@@ -2170,7 +2122,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 59,
+            "order": 66,
             "mode": 0,
             "inputs": [
                 {
@@ -2219,7 +2171,7 @@ export const defaultGraph = {
                 26
             ],
             "flags": {},
-            "order": 16,
+            "order": 17,
             "mode": 0,
             "inputs": [
                 {
@@ -2263,7 +2215,7 @@ export const defaultGraph = {
                 26
             ],
             "flags": {},
-            "order": 92,
+            "order": 101,
             "mode": 0,
             "inputs": [
                 {
@@ -2305,13 +2257,13 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 95,
+            "order": 51,
             "mode": 0,
             "inputs": [
                 {
                     "name": "",
                     "type": "*",
-                    "link": 160
+                    "link": 245
                 }
             ],
             "outputs": [
@@ -2319,7 +2271,8 @@ export const defaultGraph = {
                     "name": "",
                     "type": "IMAGE",
                     "links": [
-                        217
+                        217,
+                        243
                     ],
                     "label": "output",
                     "slot_index": 0
@@ -2344,7 +2297,7 @@ export const defaultGraph = {
                 26
             ],
             "flags": {},
-            "order": 30,
+            "order": 32,
             "mode": 0,
             "inputs": [
                 {
@@ -2386,7 +2339,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 34,
+            "order": 36,
             "mode": 0,
             "inputs": [
                 {
@@ -2425,7 +2378,7 @@ export const defaultGraph = {
                 26
             ],
             "flags": {},
-            "order": 87,
+            "order": 96,
             "mode": 0,
             "inputs": [
                 {
@@ -2465,7 +2418,7 @@ export const defaultGraph = {
                 26
             ],
             "flags": {},
-            "order": 88,
+            "order": 97,
             "mode": 0,
             "inputs": [
                 {
@@ -2494,33 +2447,6 @@ export const defaultGraph = {
             "bgcolor": "#533"
         },
         {
-            "id": 119,
-            "type": "PreviewImage",
-            "pos": [
-                870,
-                2040
-            ],
-            "size": {
-                "0": 489.4833984375,
-                "1": 582.8953857421875
-            },
-            "flags": {},
-            "order": 100,
-            "mode": 0,
-            "inputs": [
-                {
-                    "name": "images",
-                    "type": "IMAGE",
-                    "link": 177
-                }
-            ],
-            "properties": {
-                "Node name for S&R": "PreviewImage"
-            },
-            "color": "#323",
-            "bgcolor": "#535"
-        },
-        {
             "id": 59,
             "type": "ControlNetApplyAdvanced",
             "pos": [
@@ -2534,7 +2460,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": false
             },
-            "order": 73,
+            "order": 80,
             "mode": 0,
             "inputs": [
                 {
@@ -2604,7 +2530,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 68,
+            "order": 75,
             "mode": 0,
             "inputs": [
                 {
@@ -2674,7 +2600,7 @@ export const defaultGraph = {
                 26
             ],
             "flags": {},
-            "order": 42,
+            "order": 45,
             "mode": 0,
             "inputs": [
                 {
@@ -2713,7 +2639,7 @@ export const defaultGraph = {
                 26
             ],
             "flags": {},
-            "order": 94,
+            "order": 103,
             "mode": 0,
             "inputs": [
                 {
@@ -2731,7 +2657,6 @@ export const defaultGraph = {
                     "name": "",
                     "type": "IMAGE",
                     "links": [
-                        160,
                         178
                     ],
                     "slot_index": 0
@@ -2755,8 +2680,10 @@ export const defaultGraph = {
                 "0": 528.4508666992188,
                 "1": 583.8632202148438
             },
-            "flags": {},
-            "order": 98,
+            "flags": {
+                "pinned": true
+            },
+            "order": 105,
             "mode": 0,
             "inputs": [
                 {
@@ -2781,7 +2708,7 @@ export const defaultGraph = {
                 "1": 46
             },
             "flags": {},
-            "order": 96,
+            "order": 104,
             "mode": 0,
             "inputs": [
                 {
@@ -2856,7 +2783,7 @@ export const defaultGraph = {
                 26
             ],
             "flags": {},
-            "order": 20,
+            "order": 21,
             "mode": 0,
             "inputs": [
                 {
@@ -2888,48 +2815,6 @@ export const defaultGraph = {
             "bgcolor": "#335"
         },
         {
-            "id": 57,
-            "type": "ImageScaleToTotalPixels",
-            "pos": [
-                -1108,
-                1554
-            ],
-            "size": {
-                "0": 315,
-                "1": 82
-            },
-            "flags": {},
-            "order": 50,
-            "mode": 0,
-            "inputs": [
-                {
-                    "name": "image",
-                    "type": "IMAGE",
-                    "link": 127
-                }
-            ],
-            "outputs": [
-                {
-                    "name": "IMAGE",
-                    "type": "IMAGE",
-                    "links": [
-                        115
-                    ],
-                    "shape": 3,
-                    "slot_index": 0
-                }
-            ],
-            "properties": {
-                "Node name for S&R": "ImageScaleToTotalPixels"
-            },
-            "widgets_values": [
-                "bilinear",
-                0.262
-            ],
-            "color": "#222",
-            "bgcolor": "#000"
-        },
-        {
             "id": 126,
             "type": "ImageScaleToTotalPixels",
             "pos": [
@@ -2943,7 +2828,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 26,
+            "order": 27,
             "mode": 0,
             "inputs": [
                 {
@@ -2988,7 +2873,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 40,
+            "order": 42,
             "mode": 0,
             "inputs": [
                 {
@@ -3020,46 +2905,6 @@ export const defaultGraph = {
             "properties": {
                 "Node name for S&R": "GetImageSize"
             }
-        },
-        {
-            "id": 49,
-            "type": "Reroute",
-            "pos": [
-                -1698,
-                1603
-            ],
-            "size": [
-                75,
-                26
-            ],
-            "flags": {},
-            "order": 41,
-            "mode": 0,
-            "inputs": [
-                {
-                    "name": "",
-                    "type": "*",
-                    "link": 204
-                }
-            ],
-            "outputs": [
-                {
-                    "name": "",
-                    "type": "IMAGE",
-                    "links": [
-                        121,
-                        125
-                    ],
-                    "slot_index": 0,
-                    "label": "INPUT"
-                }
-            ],
-            "properties": {
-                "showOutputText": false,
-                "horizontal": false
-            },
-            "color": "#222",
-            "bgcolor": "#000"
         },
         {
             "id": 35,
@@ -3127,7 +2972,7 @@ export const defaultGraph = {
                 26
             ],
             "flags": {},
-            "order": 17,
+            "order": 18,
             "mode": 0,
             "inputs": [
                 {
@@ -3166,7 +3011,7 @@ export const defaultGraph = {
                 26
             ],
             "flags": {},
-            "order": 32,
+            "order": 34,
             "mode": 0,
             "inputs": [
                 {
@@ -3200,7 +3045,7 @@ export const defaultGraph = {
                 26
             ],
             "flags": {},
-            "order": 21,
+            "order": 22,
             "mode": 0,
             "inputs": [
                 {
@@ -3236,7 +3081,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 25,
+            "order": 26,
             "mode": 0,
             "inputs": [
                 {
@@ -3279,7 +3124,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 24,
+            "order": 25,
             "mode": 0,
             "inputs": [
                 {
@@ -3322,7 +3167,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 39,
+            "order": 41,
             "mode": 0,
             "inputs": [
                 {
@@ -3511,7 +3356,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 44,
+            "order": 47,
             "mode": 0,
             "inputs": [
                 {
@@ -3619,7 +3464,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 47,
+            "order": 52,
             "mode": 0,
             "inputs": [
                 {
@@ -3659,7 +3504,7 @@ export const defaultGraph = {
                 "Node name for S&R": "KSampler"
             },
             "widgets_values": [
-                226075959935103,
+                1027013234994247,
                 "randomize",
                 25,
                 6.5,
@@ -3682,7 +3527,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 49,
+            "order": 56,
             "mode": 0,
             "inputs": [
                 {
@@ -3725,7 +3570,7 @@ export const defaultGraph = {
             "flags": {
                 "pinned": true
             },
-            "order": 52,
+            "order": 59,
             "mode": 0,
             "inputs": [
                 {
@@ -3739,90 +3584,6 @@ export const defaultGraph = {
             }
         },
         {
-            "id": 102,
-            "type": "Reroute",
-            "pos": [
-                -1800,
-                1437
-            ],
-            "size": [
-                75,
-                26
-            ],
-            "flags": {},
-            "order": 27,
-            "mode": 0,
-            "inputs": [
-                {
-                    "name": "",
-                    "type": "*",
-                    "link": 148,
-                    "pos": [
-                        37.5,
-                        0
-                    ]
-                }
-            ],
-            "outputs": [
-                {
-                    "name": "",
-                    "type": "IMAGE",
-                    "links": [
-                        204
-                    ],
-                    "slot_index": 0
-                }
-            ],
-            "properties": {
-                "showOutputText": false,
-                "horizontal": true
-            },
-            "color": "#222",
-            "bgcolor": "#000"
-        },
-        {
-            "id": 37,
-            "type": "CLIPTextEncode",
-            "pos": [
-                -190,
-                1081
-            ],
-            "size": {
-                "0": 394.78350830078125,
-                "1": 163.26902770996094
-            },
-            "flags": {},
-            "order": 22,
-            "mode": 0,
-            "inputs": [
-                {
-                    "name": "clip",
-                    "type": "CLIP",
-                    "link": 57
-                }
-            ],
-            "outputs": [
-                {
-                    "name": "CONDITIONING",
-                    "type": "CONDITIONING",
-                    "links": [
-                        113,
-                        210
-                    ],
-                    "shape": 3,
-                    "slot_index": 0
-                }
-            ],
-            "properties": {
-                "Node name for S&R": "CLIPTextEncode"
-            },
-            "widgets_values": [
-                ""
-            ],
-            "color": "#232",
-            "bgcolor": "#353"
-        },
-        {
             "id": 38,
             "type": "CLIPTextEncode",
             "pos": [
@@ -3834,7 +3595,7 @@ export const defaultGraph = {
                 "1": 107
             },
             "flags": {},
-            "order": 23,
+            "order": 24,
             "mode": 0,
             "inputs": [
                 {
@@ -3859,7 +3620,7 @@ export const defaultGraph = {
                 "Node name for S&R": "CLIPTextEncode"
             },
             "widgets_values": [
-                "distorted, blurred, bad quality,"
+                "distorted, blurred, bad quality, fur, text, words, hot air balloon, stripes, striped ball, snow flakes, "
             ],
             "color": "#322",
             "bgcolor": "#533"
@@ -3876,7 +3637,7 @@ export const defaultGraph = {
                 "1": 98
             },
             "flags": {},
-            "order": 97,
+            "order": 55,
             "mode": 0,
             "inputs": [
                 {
@@ -3979,67 +3740,6 @@ export const defaultGraph = {
             "bgcolor": "#535"
         },
         {
-            "id": 39,
-            "type": "KSampler",
-            "pos": [
-                2142,
-                1075
-            ],
-            "size": {
-                "0": 315,
-                "1": 262
-            },
-            "flags": {},
-            "order": 90,
-            "mode": 0,
-            "inputs": [
-                {
-                    "name": "model",
-                    "type": "MODEL",
-                    "link": 106
-                },
-                {
-                    "name": "positive",
-                    "type": "CONDITIONING",
-                    "link": 107
-                },
-                {
-                    "name": "negative",
-                    "type": "CONDITIONING",
-                    "link": 108
-                },
-                {
-                    "name": "latent_image",
-                    "type": "LATENT",
-                    "link": 109,
-                    "slot_index": 3
-                }
-            ],
-            "outputs": [
-                {
-                    "name": "LATENT",
-                    "type": "LATENT",
-                    "links": [
-                        118
-                    ],
-                    "shape": 3,
-                    "slot_index": 0
-                }
-            ],
-            "properties": {
-                "Node name for S&R": "KSampler"
-            },
-            "widgets_values": [
-                1,
-                "fixed",
-                30,
-                6.5,
-                "dpmpp_2m_sde",
-                "exponential",
-                0.37
-            ]
-        },
-        {
             "id": 47,
             "type": "LoadImage",
             "pos": [
@@ -4077,7 +3777,7 @@ export const defaultGraph = {
                 "Node name for S&R": "LoadImage"
             },
             "widgets_values": [
-                "1.jpg",
+                "2 (2).jpg",
                 "image"
             ],
             "color": "#222",
@@ -4090,12 +3790,12 @@ export const defaultGraph = {
                 2595,
                 1385
             ],
-            "size": [
-                485.22839885235317,
-                393.5586971115529
-            ],
+            "size": {
+                "0": 485.2283935546875,
+                "1": 393.5586853027344
+            },
             "flags": {},
-            "order": 28,
+            "order": 29,
             "mode": 0,
             "inputs": [
                 {
@@ -4109,6 +3809,115 @@ export const defaultGraph = {
             }
         },
         {
+            "id": 116,
+            "type": "Reroute",
+            "pos": [
+                322,
+                2137
+            ],
+            "size": [
+                75,
+                26
+            ],
+            "flags": {
+                "pinned": false
+            },
+            "order": 40,
+            "mode": 0,
+            "inputs": [
+                {
+                    "name": "",
+                    "type": "*",
+                    "link": 211
+                }
+            ],
+            "outputs": [
+                {
+                    "name": "",
+                    "type": "CONDITIONING",
+                    "links": [
+                        216
+                    ],
+                    "slot_index": 0
+                }
+            ],
+            "properties": {
+                "showOutputText": false,
+                "horizontal": false
+            },
+            "color": "#322",
+            "bgcolor": "#533"
+        },
+        {
+            "id": 115,
+            "type": "Reroute",
+            "pos": [
+                -157,
+                2385
+            ],
+            "size": [
+                75,
+                26
+            ],
+            "flags": {
+                "pinned": false
+            },
+            "order": 38,
+            "mode": 0,
+            "inputs": [
+                {
+                    "name": "",
+                    "type": "*",
+                    "link": 210
+                }
+            ],
+            "outputs": [
+                {
+                    "name": "",
+                    "type": "CONDITIONING",
+                    "links": [
+                        214
+                    ],
+                    "slot_index": 0
+                }
+            ],
+            "properties": {
+                "showOutputText": false,
+                "horizontal": false
+            },
+            "color": "#232",
+            "bgcolor": "#353"
+        },
+        {
+            "id": 119,
+            "type": "PreviewImage",
+            "pos": [
+                874,
+                2040
+            ],
+            "size": {
+                "0": 489.4833984375,
+                "1": 582.8953857421875
+            },
+            "flags": {
+                "pinned": true
+            },
+            "order": 89,
+            "mode": 0,
+            "inputs": [
+                {
+                    "name": "images",
+                    "type": "IMAGE",
+                    "link": 177
+                }
+            ],
+            "properties": {
+                "Node name for S&R": "PreviewImage"
+            },
+            "color": "#323",
+            "bgcolor": "#535"
+        },
+        {
             "id": 117,
             "type": "UltimateSDUpscale",
             "pos": [
@@ -4119,14 +3928,16 @@ export const defaultGraph = {
                 "0": 315,
                 "1": 590
             },
-            "flags": {},
-            "order": 99,
+            "flags": {
+                "pinned": true
+            },
+            "order": 84,
             "mode": 0,
             "inputs": [
                 {
                     "name": "image",
                     "type": "IMAGE",
-                    "link": null
+                    "link": 243
                 },
                 {
                     "name": "model",
@@ -4204,14 +4015,14 @@ export const defaultGraph = {
                 "Node name for S&R": "UltimateSDUpscale"
             },
             "widgets_values": [
-                3,
-                1,
+                2,
+                7,
                 "fixed",
                 22,
-                8.5,
+                6,
                 "dpmpp_2m_sde",
                 "karras",
-                0.2199999999999999,
+                0.5,
                 "Chess",
                 512,
                 512,
@@ -4228,84 +4039,481 @@ export const defaultGraph = {
             "bgcolor": "#535"
         },
         {
-            "id": 116,
+            "id": 81,
+            "type": "FaceRestoreCFWithModel",
+            "pos": [
+                -1594,
+                1692
+            ],
+            "size": {
+                "0": 315,
+                "1": 102
+            },
+            "flags": {},
+            "order": 50,
+            "mode": 0,
+            "inputs": [
+                {
+                    "name": "facerestore_model",
+                    "type": "FACERESTORE_MODEL",
+                    "link": 122,
+                    "slot_index": 0
+                },
+                {
+                    "name": "image",
+                    "type": "IMAGE",
+                    "link": 233
+                }
+            ],
+            "outputs": [
+                {
+                    "name": "IMAGE",
+                    "type": "IMAGE",
+                    "links": [
+                        126
+                    ],
+                    "shape": 3,
+                    "slot_index": 0
+                }
+            ],
+            "properties": {
+                "Node name for S&R": "FaceRestoreCFWithModel"
+            },
+            "widgets_values": [
+                "retinaface_resnet50",
+                0.92
+            ],
+            "color": "#233",
+            "bgcolor": "#355"
+        },
+        {
+            "id": 57,
+            "type": "ImageScaleToTotalPixels",
+            "pos": [
+                -1108,
+                1554
+            ],
+            "size": {
+                "0": 315,
+                "1": 82
+            },
+            "flags": {},
+            "order": 57,
+            "mode": 0,
+            "inputs": [
+                {
+                    "name": "image",
+                    "type": "IMAGE",
+                    "link": 127
+                }
+            ],
+            "outputs": [
+                {
+                    "name": "IMAGE",
+                    "type": "IMAGE",
+                    "links": [
+                        115
+                    ],
+                    "shape": 3,
+                    "slot_index": 0
+                }
+            ],
+            "properties": {
+                "Node name for S&R": "ImageScaleToTotalPixels"
+            },
+            "widgets_values": [
+                "bilinear",
+                0.262
+            ],
+            "color": "#222",
+            "bgcolor": "#000"
+        },
+        {
+            "id": 102,
             "type": "Reroute",
             "pos": [
-                322,
-                2137
+                -1942,
+                1430
             ],
             "size": [
                 75,
                 26
             ],
-            "flags": {
-                "pinned": false
-            },
-            "order": 38,
+            "flags": {},
+            "order": 28,
             "mode": 0,
             "inputs": [
                 {
                     "name": "",
                     "type": "*",
-                    "link": 211
+                    "link": 148,
+                    "pos": [
+                        37.5,
+                        0
+                    ]
                 }
             ],
             "outputs": [
                 {
                     "name": "",
-                    "type": "CONDITIONING",
+                    "type": "IMAGE",
                     "links": [
-                        216
+                        204
                     ],
                     "slot_index": 0
                 }
             ],
             "properties": {
                 "showOutputText": false,
+                "horizontal": true
+            },
+            "color": "#222",
+            "bgcolor": "#000"
+        },
+        {
+            "id": 142,
+            "type": "ImageScaleToTotalPixels",
+            "pos": [
+                -1769,
+                1422
+            ],
+            "size": {
+                "0": 315,
+                "1": 82
+            },
+            "flags": {},
+            "order": 49,
+            "mode": 0,
+            "inputs": [
+                {
+                    "name": "image",
+                    "type": "IMAGE",
+                    "link": 229
+                }
+            ],
+            "outputs": [
+                {
+                    "name": "IMAGE",
+                    "type": "IMAGE",
+                    "links": [
+                        231
+                    ],
+                    "shape": 3,
+                    "slot_index": 0
+                }
+            ],
+            "properties": {
+                "Node name for S&R": "ImageScaleToTotalPixels"
+            },
+            "widgets_values": [
+                "bilinear",
+                0.262
+            ],
+            "color": "#222",
+            "bgcolor": "#000"
+        },
+        {
+            "id": 143,
+            "type": "Reroute",
+            "pos": [
+                -1782,
+                1610
+            ],
+            "size": [
+                75,
+                26
+            ],
+            "flags": {},
+            "order": 53,
+            "mode": 0,
+            "inputs": [
+                {
+                    "name": "",
+                    "type": "*",
+                    "link": 231
+                }
+            ],
+            "outputs": [
+                {
+                    "name": "",
+                    "type": "IMAGE",
+                    "links": [],
+                    "label": "scaled",
+                    "slot_index": 0
+                }
+            ],
+            "properties": {
+                "showOutputText": false,
+                "horizontal": false
+            }
+        },
+        {
+            "id": 49,
+            "type": "Reroute",
+            "pos": [
+                -1857,
+                1536
+            ],
+            "size": [
+                75,
+                26
+            ],
+            "flags": {},
+            "order": 43,
+            "mode": 0,
+            "inputs": [
+                {
+                    "name": "",
+                    "type": "*",
+                    "link": 204
+                }
+            ],
+            "outputs": [
+                {
+                    "name": "",
+                    "type": "IMAGE",
+                    "links": [
+                        125,
+                        229,
+                        233
+                    ],
+                    "slot_index": 0,
+                    "label": "INPUT"
+                }
+            ],
+            "properties": {
+                "showOutputText": false,
                 "horizontal": false
             },
+            "color": "#222",
+            "bgcolor": "#000"
+        },
+        {
+            "id": 37,
+            "type": "CLIPTextEncode",
+            "pos": [
+                -198,
+                1087
+            ],
+            "size": {
+                "0": 394.78350830078125,
+                "1": 163.26902770996094
+            },
+            "flags": {},
+            "order": 23,
+            "mode": 0,
+            "inputs": [
+                {
+                    "name": "clip",
+                    "type": "CLIP",
+                    "link": 57
+                }
+            ],
+            "outputs": [
+                {
+                    "name": "CONDITIONING",
+                    "type": "CONDITIONING",
+                    "links": [
+                        113,
+                        210
+                    ],
+                    "shape": 3,
+                    "slot_index": 0
+                }
+            ],
+            "properties": {
+                "Node name for S&R": "CLIPTextEncode"
+            },
+            "widgets_values": [
+                "1st of may demonstration in Soviet Union, a group of people in winter clothes,"
+            ],
+            "color": "#232",
+            "bgcolor": "#353"
+        },
+        {
+            "id": 39,
+            "type": "KSampler",
+            "pos": [
+                2148,
+                1088
+            ],
+            "size": {
+                "0": 315,
+                "1": 262
+            },
+            "flags": {
+                "pinned": true
+            },
+            "order": 99,
+            "mode": 0,
+            "inputs": [
+                {
+                    "name": "model",
+                    "type": "MODEL",
+                    "link": 106
+                },
+                {
+                    "name": "positive",
+                    "type": "CONDITIONING",
+                    "link": 107
+                },
+                {
+                    "name": "negative",
+                    "type": "CONDITIONING",
+                    "link": 108
+                },
+                {
+                    "name": "latent_image",
+                    "type": "LATENT",
+                    "link": 109,
+                    "slot_index": 3
+                }
+            ],
+            "outputs": [
+                {
+                    "name": "LATENT",
+                    "type": "LATENT",
+                    "links": [
+                        118
+                    ],
+                    "shape": 3,
+                    "slot_index": 0
+                }
+            ],
+            "properties": {
+                "Node name for S&R": "KSampler"
+            },
+            "widgets_values": [
+                70,
+                "fixed",
+                30,
+                6.5,
+                "dpmpp_2m_sde",
+                "exponential",
+                0.6
+            ]
+        },
+        {
+            "id": 147,
+            "type": "Reroute",
+            "pos": [
+                122,
+                2083
+            ],
+            "size": [
+                75,
+                26
+            ],
+            "flags": {},
+            "order": 44,
+            "mode": 0,
+            "inputs": [
+                {
+                    "name": "",
+                    "type": "*",
+                    "link": 244
+                }
+            ],
+            "outputs": [
+                {
+                    "name": "",
+                    "type": "IMAGE",
+                    "links": [
+                        245
+                    ],
+                    "slot_index": 0,
+                    "label": "full"
+                }
+            ],
+            "properties": {
+                "showOutputText": false,
+                "horizontal": false
+            },
+            "color": "#432",
+            "bgcolor": "#653"
+        },
+        {
+            "id": 144,
+            "type": "LoadImage",
+            "pos": [
+                -470,
+                2700
+            ],
+            "size": [
+                315,
+                314
+            ],
+            "flags": {},
+            "order": 16,
+            "mode": 0,
+            "outputs": [
+                {
+                    "name": "IMAGE",
+                    "type": "IMAGE",
+                    "links": [
+                        240
+                    ],
+                    "shape": 3,
+                    "slot_index": 0
+                },
+                {
+                    "name": "MASK",
+                    "type": "MASK",
+                    "links": null,
+                    "shape": 3
+                }
+            ],
+            "properties": {
+                "Node name for S&R": "LoadImage"
+            },
+            "widgets_values": [
+                "3.jpg",
+                "image"
+            ],
             "color": "#322",
             "bgcolor": "#533"
         },
         {
-            "id": 115,
-            "type": "Reroute",
+            "id": 146,
+            "type": "ImageScaleBy",
             "pos": [
-                -157,
-                2385
+                -470,
+                2580
             ],
-            "size": [
-                75,
-                26
-            ],
-            "flags": {
-                "pinned": false
+            "size": {
+                "0": 315,
+                "1": 82
             },
-            "order": 36,
+            "flags": {},
+            "order": 30,
             "mode": 0,
             "inputs": [
                 {
-                    "name": "",
-                    "type": "*",
-                    "link": 210
+                    "name": "image",
+                    "type": "IMAGE",
+                    "link": 240
                 }
             ],
             "outputs": [
                 {
-                    "name": "",
-                    "type": "CONDITIONING",
+                    "name": "IMAGE",
+                    "type": "IMAGE",
                     "links": [
-                        214
+                        244
                     ],
+                    "shape": 3,
                     "slot_index": 0
                 }
             ],
             "properties": {
-                "showOutputText": false,
-                "horizontal": false
+                "Node name for S&R": "ImageScaleBy"
             },
-            "color": "#232",
-            "bgcolor": "#353"
+            "widgets_values": [
+                "nearest-exact",
+                1
+            ],
+            "color": "#322",
+            "bgcolor": "#533"
         }
     ],
     "links": [
@@ -4694,14 +4902,6 @@ export const defaultGraph = {
             "IMAGE"
         ],
         [
-            121,
-            49,
-            0,
-            81,
-            1,
-            "IMAGE"
-        ],
-        [
             122,
             82,
             0,
@@ -4788,14 +4988,6 @@ export const defaultGraph = {
             92,
             0,
             "*"
-        ],
-        [
-            137,
-            96,
-            1,
-            94,
-            0,
-            "MASK"
         ],
         [
             138,
@@ -4938,14 +5130,6 @@ export const defaultGraph = {
             80,
             0,
             108,
-            0,
-            "*"
-        ],
-        [
-            160,
-            108,
-            0,
-            109,
             0,
             "*"
         ],
@@ -5284,6 +5468,70 @@ export const defaultGraph = {
             141,
             0,
             "IMAGE"
+        ],
+        [
+            223,
+            96,
+            1,
+            94,
+            0,
+            "MASK"
+        ],
+        [
+            229,
+            49,
+            0,
+            142,
+            0,
+            "IMAGE"
+        ],
+        [
+            231,
+            142,
+            0,
+            143,
+            0,
+            "*"
+        ],
+        [
+            233,
+            49,
+            0,
+            81,
+            1,
+            "IMAGE"
+        ],
+        [
+            240,
+            144,
+            0,
+            146,
+            0,
+            "IMAGE"
+        ],
+        [
+            243,
+            109,
+            0,
+            117,
+            0,
+            "IMAGE"
+        ],
+        [
+            244,
+            146,
+            0,
+            147,
+            0,
+            "*"
+        ],
+        [
+            245,
+            147,
+            0,
+            109,
+            0,
+            "*"
         ]
     ],
     "groups": [
