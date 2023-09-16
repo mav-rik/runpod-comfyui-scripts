@@ -27,6 +27,7 @@ wget --no-verbose https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main
 wget --no-verbose https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_openpose.pth
 wget --no-verbose https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11p_sd15_canny.pth
 wget --no-verbose https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11f1p_sd15_depth.pth
+wget --no-verbose https://huggingface.co/lllyasviel/ControlNet-v1-1/resolve/main/control_v11f1e_sd15_tile.pth
 
 ## upscalers
 echo "Downloading Upscalers..."

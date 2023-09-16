@@ -80,7 +80,7 @@ cd ..
 ### controlnet
 git clone https://github.com/Fannovel16/comfyui_controlnet_aux/
 cd comfyui_controlnet_aux
-git reset --hard 360fcefcff250e9245db9eede6515139ac5bb4e5
+# git reset --hard 360fcefcff250e9245db9eede6515139ac5bb4e5
 pip install -r requirements.txt
 cd ..
 
