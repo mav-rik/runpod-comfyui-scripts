@@ -33,6 +33,7 @@ wget --no-verbose -O ioclab_sd15_recolor.safetensors https://huggingface.co/iocl
 echo "Downloading Upscalers..."
 cd /workspace/downloads/upscale
 wget --no-verbose https://huggingface.co/utnah/esrgan/resolve/main/4x_Valar_v1.pth
+wget --no-verbose https://huggingface.co/gemasai/4x_NMKD-Superscale-SP_178000_G/resolve/main/4x_NMKD-Superscale-SP_178000_G.pth
 wget --no-verbose https://huggingface.co/utnah/esrgan/resolve/main/4x-UltraSharp.pth
 wget --no-verbose https://huggingface.co/utnah/esrgan/resolve/main/4xESRGAN.pth
 wget --no-verbose https://huggingface.co/utnah/esrgan/resolve/main/4x_Faces_04_N_180000_G.pth

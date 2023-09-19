@@ -5,7 +5,9 @@
 echo "Downloading Models..."
 cd /workspace/downloads/models
 ### https://civitai.com/models/129666/realities-edge-xl?modelVersionId=142162
-wget --no-verbose -O RealitiesEdgeXL_.safetensors https://civitai.com/api/download/models/142162
+# wget --no-verbose -O RealitiesEdgeXL_.safetensors https://civitai.com/api/download/models/142162
+# wget --no-verbose -O RealisticStockPhoto.safetensors https://civitai.com/api/download/models/154593
+wget --no-verbose -O RealisticStockPhoto-fp16.safetensors https://huggingface.co/femboysLover/RealisticStockPhoto-fp16/resolve/main/unet/diffusion_pytorch_model.safetensors
 wget --no-verbose https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0/resolve/main/sd_xl_refiner_1.0.safetensors
 
 ## vae
